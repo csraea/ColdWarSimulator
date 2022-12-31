@@ -1,0 +1,9 @@
+4 4 4
+
+e d e c
+
+a b b b b b 
+b a b b b b 
+b b a b b b 
+b b b a b b 
+
